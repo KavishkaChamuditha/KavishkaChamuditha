@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Programming and Web Development
 - 📫 How to reach me: ... [My Portfolio](http:kavishkachamuditha.me/)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... System.out.println("Fixing bugs is life of programmers")
-
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kavishkachamud6?label=Follow)](https://twitter.com/intent/follow?screen_name=kavishkachamud6)
