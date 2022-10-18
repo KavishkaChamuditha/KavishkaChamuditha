@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Linkedin: Raslan Rizvi](https://img.shields.io/badge/kavishka-mayadunna-92b4511b6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kavishka-mayadunna-92b4511b6)](https://www.linkedin.com/in/kavishka-mayadunna-92b4511b6)
 ![GitHub followers](https://img.shields.io/github/followers/KavishkaChamuditha?tab=followers?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.kavishkachamuditha.me/)](http://kavishkachamuditha.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=https://www.kavishkachamuditha.me/)
+![](https://visitor-badge.glitch.me/badge?page_id=https://kavishkachamuditha-2dd09.web.app/)
 
 
 [![Kavishka Chamuditha's github stats](https://github-readme-stats.vercel.app/api?username=KavishkaChamuditha&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/KavishkaChamuditha)
