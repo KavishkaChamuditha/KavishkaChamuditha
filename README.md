@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Web Development
-- 🌱 I’m currently learning ... Laravel
+- 🌱 I’m currently learning ... Javascript
 - 👯 I’m looking to collaborate on ... Web Development or software engineering
 - 🤔 I’m looking for help with ... Java Script
 - 💬 Ask me about ... Programming and Web Development
