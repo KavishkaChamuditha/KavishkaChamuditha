@@ -5,7 +5,7 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Web Development
+- 🔭 I’m currently working on ... Holosoft Sri Lanka
 - 🌱 I’m currently learning ... Javascript
 - 👯 I’m looking to collaborate on ... Web Development or software engineering
 - 🤔 I’m looking for help with ... Java Script
