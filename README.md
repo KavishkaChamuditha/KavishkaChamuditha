@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Web Development or software engineering
 - 🤔 I’m looking for help with ... Java Script
 - 💬 Ask me about ... Programming and Web Development
-- 📫 How to reach me: ... [My Portfolio]([http://kavishkamayadunna.000.pe/]))
+- 📫 How to reach me: ... [My Portfolio](http://kavishkamayadunna.000.pe/))
 - 😄 Pronouns: ... He/Him
 
 
