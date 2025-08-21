@@ -25,4 +25,3 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KavishkaChamuditha&langs_count=8&layout=compact&theme=radical)](https://github.com/KavishkaChamuditha/)
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5502933" style='border:none;'></iframe>
