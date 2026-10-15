@@ -24,13 +24,12 @@ Here are some ideas to get you started:
 [![Kavishka Chamuditha's github stats](https://github-readme-stats.vercel.app/api?username=KavishkaChamuditha&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/KavishkaChamuditha)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KavishkaChamuditha&langs_count=8&layout=compact&theme=radical)](https://github.com/KavishkaChamuditha/)
-
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KavishkaChamuditha/KavishkaChamuditha/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KavishkaChamuditha/KavishkaChamuditha/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KavishkaChamuditha/KavishkaChamuditha/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/KavishkaChamuditha/KavishkaChamuditha/output/github-contribution-grid-snake.svg">
+
+</div><div align="center">
+
+<img src="https://raw.githubusercontent.com/KavishkaChamuditha/KavishkaChamuditha/output/github-contribution-grid-snake.svg">
 
 </div>
