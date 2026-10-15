@@ -20,11 +20,19 @@ Here are some ideas to get you started:
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://kavishkachamuditha-2dd09.web.app/)](https://kavishkachamuditha-2dd09.web.app/)
 ![](https://visitor-badge.glitch.me/badge?page_id=https://kavishkachamuditha-2dd09.web.app/)
 
+<div align="center">
 
-[![Kavishka Chamuditha's github stats](https://github-readme-stats.vercel.app/api?username=KavishkaChamuditha&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/KavishkaChamuditha)
+## 📊 GitHub Analytics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KavishkaChamuditha&langs_count=8&layout=compact&theme=radical)](https://github.com/KavishkaChamuditha/)
+<a href="https://github.com/KavishkaChamuditha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KavishkaChamuditha&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true" />
+</a>
 
+<a href="https://github.com/KavishkaChamuditha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavishkaChamuditha&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
+</a>
+
+</div>
 
 <div align="center">
 
