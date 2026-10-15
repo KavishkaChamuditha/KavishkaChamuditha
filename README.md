@@ -26,10 +26,19 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KavishkaChamuditha&langs_count=8&layout=compact&theme=radical)](https://github.com/KavishkaChamuditha/)
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KavishkaChamuditha/KavishkaChamuditha/output/github-contribution-grid-snake.svg">
+<div align="center">
 
-</div><div align="center">
+## 🐍 My Contribution Snake
 
-<img src="https://raw.githubusercontent.com/KavishkaChamuditha/KavishkaChamuditha/output/github-contribution-grid-snake.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/KavishkaChamuditha/KavishkaChamuditha/output/github-contribution-grid-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/KavishkaChamuditha/KavishkaChamuditha/output/github-contribution-grid-snake.svg">
+
+  <img alt="GitHub Contribution Snake"
+       src="https://raw.githubusercontent.com/KavishkaChamuditha/KavishkaChamuditha/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
