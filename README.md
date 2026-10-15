@@ -24,21 +24,22 @@ Here are some ideas to get you started:
 [![Kavishka Chamuditha's github stats](https://github-readme-stats.vercel.app/api?username=KavishkaChamuditha&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/KavishkaChamuditha)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KavishkaChamuditha&langs_count=8&layout=compact&theme=radical)](https://github.com/KavishkaChamuditha/)
+
+
 <div align="center">
-<div align="center">
 
-## 🐍 My Contribution Snake
+<h2>🐍 Contribution Activity</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/KavishkaChamuditha/KavishkaChamuditha/gh-pages/github-contribution-grid-snake-dark.svg">
+<p>
+  <img
+    src="https://raw.githubusercontent.com/KavishkaChamuditha/KavishkaChamuditha/gh-pages/github-contribution-grid-snake.svg"
+    alt="Contribution Activity"
+    width="900"
+  />
+</p>
 
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/KavishkaChamuditha/KavishkaChamuditha/gh-pages/github-contribution-grid-snake.svg">
-
-  <img alt="GitHub Contribution Snake"
-       src="https://raw.githubusercontent.com/KavishkaChamuditha/KavishkaChamuditha/gh-pages/github-contribution-grid-snake.svg">
-
-</picture>
+<p>
+  <sub>Building, learning, and committing every day 🚀</sub>
+</p>
 
 </div>
