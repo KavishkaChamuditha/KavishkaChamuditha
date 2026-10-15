@@ -22,14 +22,12 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-## 📊 GitHub Analytics
-
 <a href="https://github.com/KavishkaChamuditha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KavishkaChamuditha&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=KavishkaChamuditha&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
 </a>
 
 <a href="https://github.com/KavishkaChamuditha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavishkaChamuditha&layout=compact&langs_count=8&hide_border=true&theme=transparent" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavishkaChamuditha&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
 </a>
 
 </div>
